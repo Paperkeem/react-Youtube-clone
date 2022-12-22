@@ -6,6 +6,7 @@
 react를 사용했으며 netlify를 이용해서 배포 되었습니다.
 
 <br/>
+
 # 2. 프로젝트 설치 및 실행
 
 ## 프로젝트 실행
@@ -17,5 +18,6 @@ react를 사용했으며 netlify를 이용해서 배포 되었습니다.
 ### `yarn install`
 
 <br/>
+
 # 3. 사용 라이브러리
 Axios , react-router-dom , tailwind, timeago.js
